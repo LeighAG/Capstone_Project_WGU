@@ -5,4 +5,4 @@ matplotlib==3.8.1
 numpy==1.26.0
 ipywidgets==8.1.0
 notebook==7.1.5
-voila==0.2.6
+voila==0.4.0
